@@ -1,4 +1,4 @@
-import { Head } from "./head"
+import { Head } from "./Head"
 import { Cont } from "./Cont"
 function App(){
     return <>
